@@ -19,6 +19,6 @@ Using synthetic difference-in-differences, I estimate that Merit's average treat
 
 #### Cost Benefit Analysis
 
-For a (very) rough estimate of the net gain from the Merit, I multiply the average WETH borrow interest rate over the last 12 months by the ATT to get the increase in revenu: $ \$238 \text{million} * 2.43\% * 90/365 = \$1.43 \text{million} $.
+For a (very) rough estimate of the net gain from the Merit, I multiply the average WETH borrow interest rate over the last 12 months by the ATT to get the increase in revenu: $238 million * 2.43\% * 90/365 = \$1.43 million.
 
-$\$2.1$ million worth of WETH was distributed as incentives. Therefore, the net loss is $1.43 - 2.1 = -0.67$ million USD. Note that the Merit announcement did not disclose the actual amount of WETH distributed, not the USD/WETH exchange used to calculate the $\$2.1$ million. 
+$2.1 million worth of WETH was distributed as incentives. Therefore, the net loss is $1.43 - $2.1 = -$0.67 million. Note that the Merit announcement did not disclose the actual amount of WETH distributed, not the USD/WETH exchange used to calculate the \$2.1 million. 
